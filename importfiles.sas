@@ -29,6 +29,7 @@ run;
 *PROCIMPORT
 out = output
 dbms= type of data set for text can use tab or dlm;
+
 proc import out=example2
 datafile="/folders/myfolders/DataManagment/Week 5 Example Dataset(1)/example2.txt"
 DBMS=dlm replace;

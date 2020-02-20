@@ -1,7 +1,0 @@
-*import txt file; 
-proc import out=example2 datafile="filelocation" 
-		DBMS=dlm replace;
-	delimiter="";
-	getnames=yes;
-	datarow=2;
-run;

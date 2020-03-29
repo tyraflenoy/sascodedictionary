@@ -1,1 +1,15 @@
 # sascodedictionary
+this repository includes SAS codes that I have used during data managment and other projects. Below I have included a table of contents
+
+How to import files and save as permanent SAS file
+  importfiles.sas
+  importfiles2_withoutproccopy.sas
+
+Creating and Redefining Variables
+  creating_and_redefining_variables.sas
+  Variables_if_then_statement.sas
+
+Sorting and Combinig SAS Datasets
+  wk11_example_codes.sas
+  ex7.sas -- produdt of code:healthdemo_combined.sas7bdat	
+
